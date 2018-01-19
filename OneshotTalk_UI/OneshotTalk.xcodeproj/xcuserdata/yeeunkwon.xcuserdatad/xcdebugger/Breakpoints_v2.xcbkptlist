@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OneshotTalk/PopupVC.swift"
+            timestampString = "537304402.480647"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OneshotTalk/PopupVC.swift"
+            timestampString = "537304402.480742"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneshotTalk.PopupVC.__deallocating_deinit"
+                  moduleName = "OneshotTalk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yeeunkwon/Desktop/%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC/OneshotTalk/OneshotTalk/PopupVC.swift"
+                  timestampString = "537113658.549412"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneshotTalk.PopupVC.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; OneshotTalk.PopupVC"
+                  moduleName = "OneshotTalk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yeeunkwon/Desktop/%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC/OneshotTalk/OneshotTalk/PopupVC.swift"
+                  timestampString = "537113658.552798"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneshotTalk.PopupVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; OneshotTalk.PopupVC"
+                  moduleName = "OneshotTalk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yeeunkwon/Desktop/%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC/OneshotTalk/OneshotTalk/PopupVC.swift"
+                  timestampString = "537113658.55661"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneshotTalk.PopupVC.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;OneshotTalk.PopupVC&gt;"
+                  moduleName = "OneshotTalk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yeeunkwon/Desktop/%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC/OneshotTalk/OneshotTalk/PopupVC.swift"
+                  timestampString = "537113658.561717"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneshotTalk.PopupVC.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;OneshotTalk.PopupVC&gt;"
+                  moduleName = "OneshotTalk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yeeunkwon/Desktop/%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC/OneshotTalk/OneshotTalk/PopupVC.swift"
+                  timestampString = "537113658.565249"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OneshotTalk/PopupVC.swift"
+            timestampString = "537304402.480809"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
